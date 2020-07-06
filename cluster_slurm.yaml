@@ -1,0 +1,6 @@
+__default__:
+   account: uzunerh
+   partition: node01
+   mem: 64G
+   time: "1:0:0"
+   ntasks-per-node: 10
